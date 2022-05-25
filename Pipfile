@@ -9,7 +9,7 @@ pylint = "*"
 [packages]
 flask = "*"
 flask-sqlalchemy = "*"
-pyjwt = "==1.5.3"
+pyjwt = "==2.4.0"
 
 [requires]
 python_version = "3.7"
